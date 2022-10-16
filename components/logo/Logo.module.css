@@ -1,0 +1,19 @@
+.container {
+  height: 40px;
+}
+
+.letter {
+  height: 40px;
+  opacity: 0;
+  margin-left: -20px;
+}
+
+.triangle {
+  height: 40px;
+  scale: 4;
+  opacity: 0;
+}
+
+.gap {
+  margin-right: 10px;
+}
