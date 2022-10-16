@@ -9,7 +9,6 @@ const letterAnimation = {
   delay: -0.2
 }
 
-
 export const Logo = () => {
 
   const el = useRef() as React.MutableRefObject<HTMLInputElement>;  ;
