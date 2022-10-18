@@ -1,4 +1,3 @@
-import React, { useEffect, useLayoutEffect, useRef } from 'react'
 import styles from './Landing.module.css'
 import { Logo } from '../logo/Logo';
 
